@@ -4,7 +4,7 @@ This repo consists of all the files related to the MAD_PWA Lab along with Experi
 
 | Experiment No. | Experiment Detail               | Github URL                                            |
 | -------------- | ------------------------------- | ----------------------------------------------------- |
-| Exp 01         | First Flutter App               | [Link]()                                           |
+| Exp 01         | First Flutter App               | [Link](https://github.com/shantanusakhare/Exp1-flutter)                                           |
 | Exp 02         | Profile Page App (Stateless)    | [Link]() |
 | Exp 03         | Profile Page App (Stateful)     | [Link]() |
 | Exp 04         | ListView and Card Layout        | [Link]()        |
